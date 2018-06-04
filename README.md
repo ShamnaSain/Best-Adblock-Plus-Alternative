@@ -1,0 +1,2 @@
+# Best-Adblock-Plus-Alternative
+Previously, AdBlock Plus was much demanded by the older machines which required a decent amount of the processing power and memory which multiplies browser tabs and hence the advertisements are blocked. But, this Adblock has some of the flaws i.e. it can not block certain advertisements from some big companies such as Google, Microsoft as they are paid for the advertisement service. To avoid this issue, the alternative has been introduced and one of that is- uBlock origin best alternative to AdBlock Plus.
